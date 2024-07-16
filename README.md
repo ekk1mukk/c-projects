@@ -1,1 +1,1 @@
-Repository of projects to learn C programming
+Repository of projects I made or followed with a tutorial to learn C programming
